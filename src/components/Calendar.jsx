@@ -1,4 +1,4 @@
-import { DaySquare } from './DaySquare'
+import DaySquare from './DaySquare'
 import { generateYearDays } from '../utils/dateUtils'
 
 /**

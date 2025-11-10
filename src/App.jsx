@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import { Modal, Calendar } from './components'
+import Modal from './components/Modal'
+import Calendar from './components/Calendar'
 import { useDiaryEntries } from './hooks/useDiaryEntries'
 import { getToday, convertDayToDate } from './utils/dateUtils'
 

@@ -76,4 +76,4 @@ const Modal = (props) => {
   )
 }
 
-export { Modal }
+export default Modal
