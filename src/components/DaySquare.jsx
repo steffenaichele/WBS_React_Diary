@@ -22,4 +22,4 @@ const DaySquare = (props) => {
   )
 }
 
-export { DaySquare }
+export default DaySquare
